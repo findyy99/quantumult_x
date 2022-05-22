@@ -33,3 +33,5 @@ HOST, emby.3DMmp.com, Emby
 # 奥德赛
 HOST, cf.odysseyplus.site, Emby
 
+# terminal
+HOST-SUFFIX, emby.wtf, Emby
