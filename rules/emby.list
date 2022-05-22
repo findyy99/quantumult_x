@@ -22,7 +22,7 @@ HOST, emby.nexitally.com, Emby
 HOST, line.emby.men, Emby
 
 # Skicat专属服
-HOST, https://skicat.tv, Emby
+HOST, skicat.tv, Emby
 
 # Godetia专属服1（猫熊）
 HOST, emby.ssltd.xyz, Emby
